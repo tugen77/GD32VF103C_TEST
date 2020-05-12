@@ -1,0 +1,6 @@
+void adcInit(void);
+
+
+
+
+
